@@ -1,6 +1,6 @@
 # ¡Hola! Soy Kilian D. Hernández Chirino 👋
 
-💻 Apasionado por el desarrollo web y la creación de aplicaciones interactivas. Siempre explorando nuevas tecnologías y mejorando mis habilidades en frontend y desarrollo de juegos.
+💻 Apasionado por el desarrollo web y la creación de aplicaciones interactivas. Siempre explorando nuevas tecnologías y mejorando mis habilidades en frontend y desarrollo.
 
 ## 🚀 Proyectos Destacados
 
