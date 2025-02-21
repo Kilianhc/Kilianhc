@@ -4,6 +4,11 @@
 
 ## 🚀 Proyectos Destacados
 
+### 🎬 **KiMovie**
+Este proyecto es una aplicación web y móvil de una Single Page Application (SPA) desarrollada con **React**, **JavaScript**, **Material UI** y **JSON Server**. Permite gestionar una lista de películas con funcionalidades como agregar a favoritos, marcar como vistas o por ver, y una sección exclusiva para administradores.
+
+🔗 [Ver repositorio](https://github.com/Kilianhc/React-Project)
+
 ### 🎮 **Game Project**
 Un proyecto donde experimento con mecánicas, gráficos y lógica en JavaScript. Este proyecto me ha permitido profundizar en la programación orientada a objetos y el manejo de eventos en juegos interactivos.
 
