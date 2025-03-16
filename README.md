@@ -4,6 +4,11 @@
 
 ## 🚀 Proyectos Destacados
 
+### 📊 **FootballStats**
+FootballStats es una aplicación Full-stack desarrollada con el stack MERN (MongoDB, Express, React y Node.js). Permite gestionar estadísticas de fútbol para equipos y jugadores, ofreciendo herramientas tanto para analistas como para entrenadores.
+
+🔗 [Ver repositorio](https://github.com/Kilianhc/FootballStats-Frontend)
+
 ### 🎬 **KiMovie**
 Este proyecto es una aplicación web y móvil de una Single Page Application (SPA) desarrollada con **React**, **JavaScript**, **Material UI** y **JSON Server**. Permite gestionar una lista de películas con funcionalidades como agregar a favoritos, marcar como vistas o por ver, y una sección exclusiva para administradores.
 
