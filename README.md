@@ -1,13 +1,10 @@
-<!-- Banner opcional -->
-<p align="center">
-  <img src="https://readme-hero.vercel.app/api?username=Kilianhc&style=flat&font=monospace&color=blue&size=32&text=Hola,%20soy%20Kilian%20👨‍💻" alt="Hero banner" />
-</p>
-
 # 👋 ¡Hola! Soy Kilian D. Hernández Chirino
 
-💻 Soy un **desarrollador frontend** apasionado por la tecnología, la creatividad y la construcción de experiencias web atractivas, funcionales y bien estructuradas.
+💻 Soy un **desarrollador** apasionado por la tecnología, la creatividad y la construcción de experiencias web atractivas, funcionales y bien estructuradas.
 
-🔍 Actualmente centrado en proyectos personales con **React** y herramientas modernas del ecosistema JavaScript. Siempre en evolución 🚀
+🔍 Actualmente centrado en proyectos personales con **React** y herramientas modernas del ecosistema JavaScript. 
+
+Siempre en evolución 🚀
 
 ---
 
@@ -92,11 +89,9 @@ Mini juego web divertido con puntaje y mecánica retro tipo arcade.
 ## 📫 Conectemos
 
 💼 [LinkedIn](https://www.linkedin.com/in/kilian-hern%C3%A1ndez-chirino-b84aa8168/)  
-📬 kilianhernandezdev@gmail.com
+📬 hkilian169@gmail.com
 
 ---
-
-> 💬 *“El código es poesía. Cada línea cuenta tu historia como desarrollador.”*
 
 Gracias por visitar mi perfil 🙌  
 ¡Nos vemos en el próximo commit! 🚀
