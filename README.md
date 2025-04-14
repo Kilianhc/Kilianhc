@@ -1,39 +1,102 @@
-# ¡Hola! Soy Kilian D. Hernández Chirino 👋
+<!-- Banner opcional -->
+<p align="center">
+  <img src="https://readme-hero.vercel.app/api?username=Kilianhc&style=flat&font=monospace&color=blue&size=32&text=Hola,%20soy%20Kilian%20👨‍💻" alt="Hero banner" />
+</p>
 
-💻 Apasionado por el desarrollo web y la creación de aplicaciones interactivas. Siempre explorando nuevas tecnologías y mejorando mis habilidades.
+# 👋 ¡Hola! Soy Kilian D. Hernández Chirino
 
-## 🚀 Proyectos Destacados
+💻 Soy un **desarrollador frontend** apasionado por la tecnología, la creatividad y la construcción de experiencias web atractivas, funcionales y bien estructuradas.
 
-### 📊 **FootballStats**
-FootballStats es una aplicación Full-stack desarrollada con el stack MERN (MongoDB, Express, React y Node.js). Permite gestionar estadísticas de fútbol para equipos y jugadores, ofreciendo herramientas tanto para analistas como para entrenadores.
+🔍 Actualmente centrado en proyectos personales con **React** y herramientas modernas del ecosistema JavaScript. Siempre en evolución 🚀
 
-🔗 [Ver repositorio](https://github.com/Kilianhc/FootballStats-Frontend)
+---
 
-### 🎬 **KiMovie**
-Este proyecto es una aplicación web y móvil de una Single Page Application (SPA) desarrollada con **React**, **JavaScript**, **Material UI** y **JSON Server**. Permite gestionar una lista de películas con funcionalidades como agregar a favoritos, marcar como vistas o por ver, y una sección exclusiva para administradores.
+## 🚀 Mis Proyectos Destacados
 
-🔗 [Ver repositorio](https://github.com/Kilianhc/React-Project)
+### 🎨 [Portfolio Personal](https://kilianhc.github.io/Portfolio/)  
+Mi sitio personal desarrollado con **React**, donde presento mi trabajo, habilidades y contacto profesional.  
+Incluye:
+- Modo claro/oscuro 🌙
+- Internacionalización (es/en) 🌍
+- Animaciones suaves con scroll ✨
+- Diseño responsive 📱💻  
+📁 [Código fuente](https://github.com/Kilianhc/Portfolio)
 
-### 🎮 **Game Project**
-Un proyecto donde experimento con mecánicas, gráficos y lógica en JavaScript. Este proyecto me ha permitido profundizar en la programación orientada a objetos y el manejo de eventos en juegos interactivos.
+---
 
-🔗 [Ver repositorio](https://github.com/Kilianhc/project-1-The-Game)
+### ⚽ [FootballStats](https://analyststats.netlify.app/)  
+App full-stack MERN para gestión de estadísticas de fútbol, con integración de IA para generar tácticas y recomendaciones.  
+🧠 IA integrada:
+- **Gemini AI** para recomendaciones.
+- **Perspective API** para moderación.
+- **Express Rate Limit** para control de peticiones.  
+📁 [Frontend](https://github.com/Kilianhc/FootballStats-Frontend) | [Backend](https://github.com/Kilianhc/FootballStats-Back)
 
-### ⚛️ **Mini Proyecto en React**
-Una pequeña aplicación construida con React para fortalecer mis conocimientos en componentes, estado y manejo de eventos. Ideal para aprender y probar nuevas funcionalidades de esta potente librería.
+---
 
-🔗 [Ver repositorio](https://github.com/Kilianhc/MiniProject-React)
+### 🎬 [KiMovie](https://ki-movie.netlify.app/)  
+SPA de películas con favoritos, vistas y panel de administrador.  
+🔐 Acceso restringido para administración.  
+📁 [Repositorio](https://github.com/Kilianhc/React-Project)
+
+---
+
+### 🧳 [To Travel List App](https://github.com/Kilianhc/to-travel-list-app)  
+Mini aplicación React para gestionar y organizar viajes.  
+🛫 Funciones CRUD + diseño intuitivo.
+
+---
+
+### 🕹️ [This is Football!](https://kilianhc.github.io/project-1-The-Game/)  
+Mini juego web divertido con puntaje y mecánica retro tipo arcade.  
+💥 Inspirado en el "Zidane vs Materazzi"  
+📁 [Repositorio](https://github.com/Kilianhc/project-1-The-Game)
+
+---
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes**: JavaScript, HTML, CSS  
-- **Frameworks/Librerías**: React  
-- **Herramientas**: Git, GitHub  
+### 💻 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white&style=flat)  
+![React Router](https://img.shields.io/badge/-ReactRouter-CA4245?logo=reactrouter&logoColor=white&style=flat)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-## 📫 Contacto  
+### ⚙️ Backend y Otros
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
+![JSON Server](https://img.shields.io/badge/-JSON%20Server-grey?style=flat)  
+![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=flat)
 
-Si quieres colaborar o simplemente charlar sobre desarrollo, ¡contáctame!  
+### 🧠 IA y APIs
+![Gemini AI](https://img.shields.io/badge/-Gemini_AI-00A8E8?style=flat)  
+![Perspective API](https://img.shields.io/badge/-Perspective_API-4B0082?style=flat)
 
-- **LinkedIn**: [Kilianhc](https://www.linkedin.com/in/kilian-hern%C3%A1ndez-chirino-b84aa8168/) 
+### 🛠️ Herramientas
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 
-¡Gracias por visitar mi perfil! 🚀
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kilianhc&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+</p>
+
+---
+
+## 📫 Conectemos
+
+💼 [LinkedIn](https://www.linkedin.com/in/kilian-hern%C3%A1ndez-chirino-b84aa8168/)  
+📬 kilianhernandezdev@gmail.com
+
+---
+
+> 💬 *“El código es poesía. Cada línea cuenta tu historia como desarrollador.”*
+
+Gracias por visitar mi perfil 🙌  
+¡Nos vemos en el próximo commit! 🚀
