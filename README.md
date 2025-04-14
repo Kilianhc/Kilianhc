@@ -56,37 +56,37 @@ Mini juego web divertido con puntaje y mecánica retro tipo arcade.
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white&style=flat)  
-![React Router](https://img.shields.io/badge/-ReactRouter-CA4245?logo=reactrouter&logoColor=white&style=flat)  
+### 💻 Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white&style=flat)
+![React Router](https://img.shields.io/badge/-ReactRouter-CA4245?logo=reactrouter&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![HTML5]()
-![i18next]()
-![Axios]()
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=i18next&logoColor=white&style=flat)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=flat)
 
-### ⚙️ Backend y Otros
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat)  
+### ⚙️ Backend y Otros  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Mongoose]()  
-![JSON Server](https://img.shields.io/badge/-JSON%20Server-grey?style=flat)  
-![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=flat)
-![bcrypt.js]()
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=flat)
+![JSON Server](https://img.shields.io/badge/-JSON%20Server-grey?style=flat)
+![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&logoColor=white&style=flat)
+![bcrypt.js](https://img.shields.io/badge/-bcrypt.js-00BFA6?style=flat)
 
-
-### 🧠 IA y APIs
-![Gemini AI](https://img.shields.io/badge/-Gemini_AI-00A8E8?style=flat)  
+### 🧠 IA y APIs  
+![Gemini AI](https://img.shields.io/badge/-Gemini_AI-00A8E8?style=flat)
 ![Perspective API](https://img.shields.io/badge/-Perspective_API-4B0082?style=flat)
 
-### 🛠️ Herramientas
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
+### 🛠️ Herramientas  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Netlify]()
-![Render]()
-![Vite]()
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=flat)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
+
 
 ---
 
