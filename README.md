@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2A9D8F&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hola%2C+soy+Kilian+D.+Hern%C3%A1ndez+Chirino!;Desarrollador+Web+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje" alt="Typing SVG" />
+</p>
+
 # 👋 ¡Hola! Soy Kilian D. Hernández Chirino
 
 💻 Soy un **desarrollador** apasionado por la tecnología, la creatividad y la construcción de experiencias web atractivas, funcionales y bien estructuradas.
@@ -59,13 +63,19 @@ Mini juego web divertido con puntaje y mecánica retro tipo arcade.
 ![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white&style=flat)  
 ![React Router](https://img.shields.io/badge/-ReactRouter-CA4245?logo=reactrouter&logoColor=white&style=flat)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![HTML5]()
+![i18next]()
+![Axios]()
 
 ### ⚙️ Backend y Otros
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
 ![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Mongoose]()  
 ![JSON Server](https://img.shields.io/badge/-JSON%20Server-grey?style=flat)  
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=flat)
+![bcrypt.js]()
+
 
 ### 🧠 IA y APIs
 ![Gemini AI](https://img.shields.io/badge/-Gemini_AI-00A8E8?style=flat)  
@@ -75,6 +85,9 @@ Mini juego web divertido con puntaje y mecánica retro tipo arcade.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+![Netlify]()
+![Render]()
+![Vite]()
 
 ---
 
