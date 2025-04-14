@@ -1,5 +1,5 @@
-<p align="center>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2A9D8F&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hola%2C+soy+Kilian+D.+Hern%C3%A1ndez+Chirino!;Desarrollador+Web+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2A9D8F&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+soy+Kilian+Hern%C3%A1ndez+Chirino;Desarrollador+Web+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;En+aprendizaje+continuo" alt="Typing SVG" />
 </p>
 
 # 👋 ¡Hola! Soy Kilian D. Hernández Chirino
